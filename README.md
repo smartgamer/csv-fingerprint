@@ -26,3 +26,6 @@ using the following url:
 
     http://localhost:8000
 
+For python3:
+    http://0.0.0.0:9000/
+
