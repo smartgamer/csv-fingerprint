@@ -17,6 +17,10 @@ directory.
 
     python -m SimpleHTTPServer
 
+For python3, we need to use:
+
+    python3 -m http.server 9000
+
 This will start a webserver running where you can access the app from a browser
 using the following url:
 
